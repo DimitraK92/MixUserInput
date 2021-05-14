@@ -1,0 +1,7 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\obj\Debug\MixUserInput.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\obj\Debug\MixUserInput.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\bin\Debug\MixUserInput.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\bin\Debug\MixUserInput.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\bin\Debug\MixUserInput.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\obj\Debug\MixUserInput.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\MixUserInput\MixUserInput\obj\Debug\MixUserInput.pdb
